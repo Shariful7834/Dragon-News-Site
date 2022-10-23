@@ -13,6 +13,7 @@ import {
 } from "react-icons/fa";
 import Carousel from "react-bootstrap/Carousel";
 import { ListGroup } from "react-bootstrap";
+import BrandedCarosoul from "../BrandedCarosoul/BrandedCarosoul";
 const RightSideNav = () => {
   return (
     <div>
@@ -44,6 +45,9 @@ const RightSideNav = () => {
             <FaInstagram /> Instagram
           </ListGroup.Item>
         </ListGroup>
+      </div>
+      <div>
+        <BrandedCarosoul></BrandedCarosoul>
       </div>
     </div>
   );
