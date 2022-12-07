@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Online News Portal ![Screenshot 2022-12-07 064100](https://user-images.githubusercontent.com/37573074/206097925-459a3423-70d8-4960-b5ea-1dc1c17361e7.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
